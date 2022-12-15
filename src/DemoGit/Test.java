@@ -10,6 +10,7 @@ public class Test {
 		System.out.println("eat something.......");	
 		{
 			System.out.println("Do work.......");
+			System.out.println("Done...");
 		}
 	}
 	
